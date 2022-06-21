@@ -40,7 +40,6 @@ p {
 }
 
 .currency {
-    border: 1px solid black;
     padding: 40px 0;
     display: flex;
     align-items: center;
